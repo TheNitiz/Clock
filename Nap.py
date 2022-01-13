@@ -19,5 +19,5 @@ while True and len(alarm_time) == 5:
     if(time_hour==hour):
         if(time_min==minute):
             print("Wake Up!")
-            playsound("C:/Users/DELL/VScode/PythonProjects/Clock/Ringtone.mp3")
+            playsound(".mp3 file path")
             break
